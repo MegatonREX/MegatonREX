@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu Mehra
 - 👀 I’m interested in learning about new technologies and programming languages.
-- 🌱 I’m currently learning DSA in java and building different projects.
+- 🌱 I’m currently learning DSA in C++ and building different projects.
 - 💞️ I’m looking to collaborate on my upcoming projects. So, be ready
 - 📫 How to reach me http://www.linkedin.com/in/deepanshu-mehra-78548a25b<br/>
                       https://www.instagram.com/_deepanshu.mehra/
